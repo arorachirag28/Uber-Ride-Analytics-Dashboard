@@ -88,3 +88,7 @@ This provides an overview of successful and unsuccessful bookings.
 🎯 Project Objective
 
   The main objective of this project is to transform raw Uber ride data into meaningful business insights using Power BI and   help understand ride performance, revenue trends, vehicle-category performance, booking status, and customer/driver          satisfaction.
+
+Snapshots 
+
+- https://github.com/arorachirag28/Uber-Ride-Analytics-Dashboard/blob/main/Uber%20Ride%20Analytics%20Dashboard.png
