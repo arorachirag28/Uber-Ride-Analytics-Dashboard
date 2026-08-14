@@ -92,3 +92,4 @@ This provides an overview of successful and unsuccessful bookings.
 Snapshots 
 
 - https://github.com/arorachirag28/Uber-Ride-Analytics-Dashboard/blob/main/Uber%20Ride%20Analytics%20Dashboard.png
+- https://github.com/arorachirag28/Uber-Ride-Analytics-Dashboard/blob/main/Uber%20Ride%20Analytics.png
